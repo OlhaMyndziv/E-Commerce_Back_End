@@ -43,8 +43,6 @@ Demonstration Video:
 
 <img src=./assets/g.gif>
 
-<img src=./assets/res.webm>
-
 
 ## Technologies
 Project is created with 
